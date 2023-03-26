@@ -1,4 +1,4 @@
-# Hardik Goel's Personal Portfolio Website
+# Personal Website
 
 Welcome to my personal portfolio website repository! My name is Hardik Goel, and I'm a 4th year Computer Science student at Georgia Tech. This repository hosts the source code for my portfolio website, where you can find more information about my background, skills, projects, and contact details.
 
