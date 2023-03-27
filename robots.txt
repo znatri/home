@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://znatri.github.io/sitemap.xml
+Sitemap: https://znatri.github.io/home/sitemap.xml
