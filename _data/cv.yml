@@ -2,77 +2,96 @@
   type: map
   contents:
     - name: Full Name
-      value: Hardik Goel
+      value: Albert Einstein
     - name: Date of Birth
-      value: Feburary 2001
+      value: 14th March 1879
     - name: Languages
-      value: English, Hindi
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: Bachelors of Science in Computer Science
-      institution: Georgia Institute of Technology
-      year: 2024
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
-        - Dean's List
-        - title: Clubs & Leadership
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
           contents:
-            - Treasurer at Philosphy Club
-            - Peer Coach at GT Counselling Centre
-            - GTXR - Georgia Tech Extended Reality Club
-            - GT Yoga Club
-    
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
+      description:
+        - Description 1.
+        - Description 2.
+
 - title: Experience
   type: time_table
   contents:
-    - title: Research Assistant - Mixboard AI Music Generation
-      institution: Robotic Musicianship Lab
-      year: June 2022 - Dec 2022
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
       description:
-        - Created a Web & iOS app for creating and sharing musical mashups generated with artificial intelligence.
-        - Developed a full-stack Web application using REST API, Flask, and VueJS to serve mixboard.
-        - Maintained AWS EC2 instance and S3 data bucket to serve multiple users and store mashups.
-        - Tuned Demucs, audio source separation model, to improve server performance by x8.3 times.
-
-    - title: Research Student - Human Robot Interaction (HRI)
-      institution: Robotic Musicianship VIP
-      year: Aug 2021 - May 2022
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
       description:
-        - Developed a live trajectory path planner for robotic arms to interrupt trajectory instantaneously.
-        - Create a body tracker with computer vision using Human Pose Estimation (POSENET Model) to track human.
-        - Programmed real-time interactions between robots & musicians using MIR algorithms for beat tracking, and chord detection.
-        - Merged and contributed 5K+ lines code from multiple projects into a Python class for ROS support.
+        - Description 1.
+        - Description 2.
 
-# - title: Projects
-#   type: time_table
-#   contents:
-    # - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-    #   year: 2015-now
-    #   description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
 
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
-#         - Matteucci Medal
-#     - year: 2029
-#       items: 
-#         - Max Planck Medal
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
+      description:
+
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1909 - 1911
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 1921
+      items: 
+        - Nobel Prize in Physics 
+        - Matteucci Medal
+    - year: 2029
+      items: 
+        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Artifical Intelligence
-    - title: Digital Media
-    - title: Robotics
+    - title: Topic 1.
+      items: 
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Influences:</u> Fyodor Dostoevsky, Walter Lewin, , Hamilton Morris
-    - <u>Musical Influencs:</u> Linkin Park, Rufus Du Sol, Benjamin Zander, Kaki King
-    - <u>Hobbies:</u> Synthesizers, Contact Staff, Yoga
-    - <u>Video Games:</u> Battlefield 4, FIFA, Counter-Strike
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
