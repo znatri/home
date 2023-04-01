@@ -1,8 +1,8 @@
 ---
 layout: cv
 permalink: /cv/
-title: curriculum vitae
+title: cv
 nav: true
 nav_order: 4
-cv_pdf: Hardik_Goel_Resume.pdf
+cv_pdf: example_pdf.pdf
 ---
